@@ -1,0 +1,44 @@
+body{ 
+    background-color: #eaf6f6;
+}
+
+hr{ 
+            border-style: none;
+            border-top-style: dotted;
+            border-color: green;
+            border-width: 5px;
+            width: 10%;
+            
+        
+}
+
+h1,h2{
+    color: #68bfbf;
+}
+
+h1:hover,h2:hover{
+    color: black;
+}
+
+img{
+   border-radius: 100%;     
+}
+
+a{
+    color: black ;
+}
+
+.kfupm:hover{
+    color: #68bfbf;
+    font-size: larger;
+}
+
+.levels:hover,.myContacts:hover{
+    color: #68bfbf;
+    font-size: large;
+}
+
+.stars:hover{
+    font-size: 50px;
+    color: gold;
+}
